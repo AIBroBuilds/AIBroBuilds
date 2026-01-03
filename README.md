@@ -32,6 +32,7 @@ Payments:    Stripe
 
 ## 📍 Follow the Journey
 
+- 🔗 **Website:** https://aibrobuilds.carrd.co/
 - 🐦 **Twitter:** [@_AIBro_](https://twitter.com/_AIBro_) — Daily updates
 - 📺 **YouTube:** [AI Bro](https://www.youtube.com/@AI.Bro4er) — Build sessions & tutorials
 - 📧 **Newsletter:** [Subscribe](https://ai-bro.kit.com/subscribe) — Weekly deep dives
