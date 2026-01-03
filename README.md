@@ -34,7 +34,7 @@ Payments:    Stripe
 
 - 🐦 **Twitter:** [@_AIBro_](https://twitter.com/_AIBro_) — Daily updates
 - 📺 **YouTube:** [AI Bro](https://www.youtube.com/@AI.Bro4er) — Build sessions & tutorials
-- 📧 **Newsletter:** [Subscribe]([link]) — Weekly deep dives
+- 📧 **Newsletter:** [Subscribe](https://ai-bro.kit.com/51a454d6d8) — Weekly deep dives
 
 ## 🔥 Featured Repositories
 
